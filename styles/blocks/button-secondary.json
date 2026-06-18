@@ -1,0 +1,24 @@
+{
+	"version": 3,
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Secondary",
+	"slug": "secondary-button",
+	"blockTypes": ["core/button"],
+	"styles": {
+		"color": {
+			"background": "var:preset|color|secondary",
+			"text": "var:preset|color|base"
+		},
+		"elements": {
+			"button": {
+				":hover": {
+					"color": {
+						"background": "var:preset|color|accent",
+						"text": "var:preset|color|base"
+					}
+				}
+			}
+		},
+		"css": ".wp-element-button:hover{background-color:var(--wp--preset--color--primary); color:var(--wp--preset--color--default)}"
+	}
+}
