@@ -1,6 +1,6 @@
 # Patterns Charity
 
-Patterns Charity is a modern and purpose-built Full Site Editing (FSE) WordPress theme,ideal for creating a powerful online resence for charities, non-profits, and fundraising initiatives. Designed to highlight causes, donation campaigns,volunteer opportunities, and success stories, this block-based theme allows you to build a compassionate and impactful website. With its FSE features, Patterns Charity offers effortless customization of headers, footers, layouts, and global styles directly within the WordPress Site Editor.
+Patterns Charity is a modern and purpose-built Full Site Editing (FSE) WordPress theme,ideal for creating a powerful online presence for charities, non-profits, and fundraising initiatives. Designed to highlight causes, donation campaigns,volunteer opportunities, and success stories, this block-based theme allows you to build a compassionate and impactful website. With its FSE features, Patterns Charity offers effortless customization of headers, footers, layouts, and global styles directly within the WordPress Site Editor.
 
 Primary color: `#FEC415`.
 
