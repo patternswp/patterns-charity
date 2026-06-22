@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Charity_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Charity_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-charity/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Charity_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
