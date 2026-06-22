@@ -21,7 +21,7 @@
 	<!-- /wp:spacer -->
 
 	<!-- wp:pattern {"slug":"patterns-charity/hidden-single-post-content"} /-->
-	
+
 </main>
 <!-- /wp:group -->
 

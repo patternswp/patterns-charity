@@ -66,7 +66,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-	
+
 <!-- wp:pattern {"slug":"patterns-charity/card-5"} /-->
 
 <!-- wp:details {"className":"is-style-custom-details","style":{"spacing":{"blockGap":"0px"}}} -->

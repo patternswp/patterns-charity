@@ -17,7 +17,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
- 
+
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull">
 

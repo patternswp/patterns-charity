@@ -12,10 +12,10 @@
 
 ?>
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group">    
+<div class="wp-block-group">
 	<!-- wp:heading {"level":4} -->
 	<h4 class="wp-block-heading"><?php esc_html_e( 'Calendar', 'patterns-charity' ); ?></h4>
 	<!-- /wp:heading -->
-	<!-- wp:calendar /-->    
+	<!-- wp:calendar /-->
 </div>
 <!-- /wp:group -->

@@ -57,7 +57,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					</svg>
 					<div class="welcome-panel-column-content">
 						<h3>
-							<?php esc_html_e( 'Customize Templates, Template Parts & More', 'patterns-charity' ); ?>    
+							<?php esc_html_e( 'Customize Templates, Template Parts & More', 'patterns-charity' ); ?>
 						</h3>
 						<p>
 							<?php esc_html_e( 'With a block theme, you can customize every aspect of both the theme and the site, from headers and footers to individual blocks, providing a cohesive and personalized design.', 'patterns-charity' ); ?>
@@ -121,7 +121,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 							</h4>
 						</div>
 						<div class="patterns-charity-card-body at-p at-p">
-							<div class="patterns-charity-intro-auth--info">								
+							<div class="patterns-charity-intro-auth--info">
 								<ul class="patterns-charity-personal-detail at-flx at-flx-col at-gap">
 									<li class="">
 										<dl class="at-flx at-al-itm-ctr at-gap">
@@ -135,7 +135,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 												<a href="https://wordpress.org/support/theme/patterns-charity" target="_blank" rel="noopener noreferrer nofollow">
 													<?php esc_html_e( 'Create A Ticket', 'patterns-charity' ); ?>
 												</a>
-											</dd>                                                        
+											</dd>
 										</dl>
 									</li>
 									<li class="mt-2">
@@ -148,7 +148,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 											</dt>
 											<dd class="at-m">
 												<?php esc_html_e( 'Kathmandu, Nepal', 'patterns-charity' ); ?>
-											</dd>                                                        
+											</dd>
 										</dl>
 									</li>
 								</ul>
@@ -163,7 +163,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 											<span class="dashicons dashicons-twitter"></span>
 										</a>
 									</li>
-								</ul>	
+								</ul>
 							</div>
 						</div>
 					</div>
@@ -304,7 +304,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 										<?php
 									}
 									?>
-								</div>				
+								</div>
 							</div>
 						</div>
 							<?php

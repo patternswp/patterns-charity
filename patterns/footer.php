@@ -23,7 +23,7 @@
 		<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:25%">
 			<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"15px"}}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 			<div class="wp-block-group" style="margin-bottom:15px">
-			
+
 				<!-- wp:image {"width":"50px","height":"50px","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
 				<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/patternswp-logo-white.png" style="object-fit:contain;width:50px;height:50px"/></figure>
 				<!-- /wp:image -->
@@ -47,7 +47,7 @@
 
 			<!-- wp:group {"style":{"spacing":{"margin":{"top":"25px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 			<div class="wp-block-group" style="margin-top:25px">
-				
+
 			<!-- wp:social-links {"iconColor":"default","iconColorValue":"#ffffff","size":"has-normal-icon-size","align":"center","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}}} -->
 			<ul class="wp-block-social-links aligncenter has-normal-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"twitter"} /-->
 
