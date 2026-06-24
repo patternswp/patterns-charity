@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_CHARITY_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_CHARITY_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_CHARITY_VERSION', '1.0.4' );
+define( 'PATTERNS_CHARITY_VERSION', '2.0.0' );
 define( 'PATTERNS_CHARITY_THEME_NAME', 'patterns-charity' );
 define( 'PATTERNS_CHARITY_OPTION_NAME', 'patterns-charity' );
 

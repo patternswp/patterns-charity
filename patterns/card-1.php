@@ -14,7 +14,7 @@
 <!-- wp:group {"metadata":{"name":"Card 1"},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-4.jpg","isUserOverlayColor":true,"minHeight":600,"customGradient":"linear-gradient(90deg,rgba(0,0,0,0) 85%,rgb(255,255,255) 0%)","contentPosition":"bottom right","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"0","bottom":"var:preset|spacing|60","left":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover has-custom-content-position is-position-bottom-right" style="padding-top:var(--wp--preset--spacing--60);padding-right:0;padding-bottom:var(--wp--preset--spacing--60);padding-left:0;min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgba(0,0,0,0) 85%,rgb(255,255,255) 0%)"></span><img class="wp-block-cover__image-background" alt="<?php esc_attr_e( 'Image of hands together', 'patterns-charity' ); ?>" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/img-4.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
-	
+
 	<!-- wp:group {"align":"full","backgroundColor":"primary","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignfull has-primary-background-color has-background">
 	<!-- wp:group {"align":"full","style":{"dimensions":{"minHeight":"100px"},"spacing":{"blockGap":"0px","padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->

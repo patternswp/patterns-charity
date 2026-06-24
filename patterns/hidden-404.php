@@ -1,6 +1,6 @@
 <?php
 /**
- * Title:404
+ * Title: 404
  * Slug: patterns-charity/hidden-404
  * Inserter: no
  *
@@ -17,7 +17,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
- 
+
 <!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"align":"full","layout":{"type":"constrained"}} -->
 <main class="wp-block-group alignfull">
 
